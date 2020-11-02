@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF转换器", "PDF转换器\PDF转换器.csproj", "{DADC067E-1A21-42D0-9673-02EDA0CEFAA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADC067E-1A21-42D0-9673-02EDA0CEFAA1}.Debug|x86.ActiveCfg = Debug|x86
+		{DADC067E-1A21-42D0-9673-02EDA0CEFAA1}.Debug|x86.Build.0 = Debug|x86
+		{DADC067E-1A21-42D0-9673-02EDA0CEFAA1}.Release|x86.ActiveCfg = Release|x86
+		{DADC067E-1A21-42D0-9673-02EDA0CEFAA1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
